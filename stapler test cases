@@ -1,0 +1,5 @@
+1. check if there are stapler pins inside the stapler.
+2. check if we are able to use the pin remover at the back of it.
+3. check if it does not staple when there are no stapler pins 
+4. check if it is able to staple if it has pins
+5. check if the pin count is decremented after every staple
